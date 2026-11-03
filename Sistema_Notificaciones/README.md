@@ -1,4 +1,4 @@
-# Sistema de mensajería distribuida con Pyro4
+# Sistema de Notificaciones con Name Server
 
 Servicio de mensajería por consola en el que varios clientes se conectan a un servidor, envían mensajes y se desconectan, todo mediante llamadas a métodos remotos con Pyro4.
 
