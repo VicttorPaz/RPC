@@ -1,4 +1,4 @@
-# Calculadora distribuida con Pyro4
+# Calculadora Remota Básica
 
 Calculadora de cuatro operaciones (suma, resta, multiplicación y división) en la que las operaciones se ejecutan en un servidor y el cliente las invoca de forma remota con Pyro4.
 
